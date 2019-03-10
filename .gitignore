@@ -1,0 +1,17 @@
+javaFX/out
+javaFX/.idea
+javaFX/javaFX.iml
+javaFX/src/META-INF
+spring/target
+spring/.idea
+spring/Ceng453TP.iml
+spring/derby.log
+spring/classes
+spring/src/main/java/META-INF
+GameWebService/.idea
+GameWebService/out
+GameWebService/src/META-INF/
+GameWebService/GameWebService.iml
+GameWebService/META-INF/
+spring/out/
+spring/META-INF/
